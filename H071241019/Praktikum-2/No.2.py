@@ -14,4 +14,4 @@ else:
 # Menghitung diskon keanggotaan dengan ternary operator
 harga_tiket = harga_tiket * 0.8 if anggota == "ya" else harga_tiket
 
-print(f"Harga tiket: Rp.{harga_tiket:.0f}")
+print(f"Harga tiket: Rp.{harga_tiket:.0f}") 
